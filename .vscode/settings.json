@@ -35,5 +35,4 @@
 		"editor.insertSpaces": false,
 		"editor.detectIndentation": false
 	},
-	"python-envs.defaultEnvManager": "ms-python.python:system"
 }
