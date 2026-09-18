@@ -205,7 +205,7 @@ The following entities may not file Club Applications on behalf of their members
    1. Food and socials.
 1. For hobby conferences specificially, applications must satisfy one of the following conditions:
    1. Be for the purposes of professional personal development (e.g. First Aid, Fabrication/Machining);
-   1. The attendee is a significant contributor or competitor in the conference (e.g. Hosting a cosplay workshop at a convention,)
+   1. The attendee is a significant contributor or competitor in the conference (e.g. Hosting a cosplay workshop at a convention,);
    1. If attending on behalf of an affiliated club, contribute sigificantly to the club's stated mandate.
 1. All Club Applications must explain how reimbursements for conference costs borne by individuals will be handled within the club.
 1. An individual may only receive at most $750 from all Individual Applications combined (in the fiscal year 2026-7).
