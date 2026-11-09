@@ -1,5 +1,5 @@
 ---
-revdate:  September 18, 2026
+revdate:  November 9, 2026
 title: Policy Number "2006-01-02"
 pdf: policies/Finance Policy
 subtitle: Policy on Finances
@@ -207,6 +207,7 @@ The following entities may not file Club Applications on behalf of their members
    1. Be for the purposes of professional personal development (e.g. First Aid, Fabrication/Machining);
    1. The attendee is a significant contributor or competitor in the conference (e.g., hosting a cosplay workshop at a convention);
    1. If attending on behalf of an affiliated club, contribute significantly to the club's stated mandate.
+   1. The finance committee has the final say in if any of the above conditions are met for hobby conferences.
 1. All Club Applications must explain how reimbursements for conference costs borne by individuals will be handled within the club.
 1. An individual may only receive at most $750 from all Individual Applications combined (in the fiscal year 2026-7).
 1. A club may only receive at most $5000 from all Club Applications combined (in the fiscal year 2026-7).
@@ -358,4 +359,4 @@ The following entities may not file Club Applications on behalf of their members
    1. Proof that the group has a bank account and that the only authorized signatories for disbursements are current signing officers of the organization; and
    1. A preliminary or forecast budget for the subsequent year.
 1. The Vice President Finance shall post the items listed in [Finance Policy §15.3.4](../policies/finance-policy.md#distribution-and-use-of-funds-5) in a location accessible to members of the Engineering Society.
-1. In addition to any consequences in the Audits chapter 7, any Levy funding that the Levy Group will receive shall be withheld by the Engineering Society up until the Levy Group's audit is concluded, provided that the audit does not result in an investigation by the Ombudsperson.
+1. In addition to any consequences in the Audits chapter 7, any Levy funding that the Levy Group will receive shall be withheld by the Engineering Society up until the Levy Group's audit has been submitted, provided that the audit does not result in an investigation by the Ombudsperson.
