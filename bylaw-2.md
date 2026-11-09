@@ -1,5 +1,5 @@
 ---
-revdate: July 23, 2026
+revdate: October 18, 2026
 title: Bylaw 2
 pdf: Bylaw 2
 subtitle: The Directors, Associated Entities, and Neutral Officers Bylaw
@@ -216,10 +216,12 @@ subtitle: The Directors, Associated Entities, and Neutral Officers Bylaw
 
 ## External Relations Director
 1. There shall be an External Relations Director, who shall be responsible for:
-   1. Being the point of contact for both the Canadian Federation of Engineering Students and the Engineering Student Society Council of Ontario;
-   1. Attending conferences held by the CFES and the ESSCO as the Head Delegate for the Engineering Society; and
-   1. Organizing delegates to attend and represent the Engineering Society at conferences held by the CFES and ESSCO; and
-   1. Sharing information regarding the CFES and the ESSCO with the Engineering Society and its members.
+   1. Representing the Society in the course of its membership of the Engineering Students Societies’ Council of Ontario (“ESSCO”) and the Canadian Federation of Engineering Students (“CFES”); and
+   1. Facilitating communication for the Society and its members with undergraduate engineering societies of other universities, the ESSCO, the CFES, and other appropriate organizations; and
+Organizing the conference delegation selection process to select delegates to attend and represent the Society at conferences held by the ESSCO and the CFES; and 
+   1. Exploring other external opportunities for the Society to participate in, and facilitating contact with other student and professional institutions.
+1. The External Relations Director must attend meetings held by the ESSCO and the CFES at which motions impacting the Society are discussed. Should they be unable to attend, they must assign a proxy, preferably another Member of the Society with sufficient background knowledge, in a timely manner.
+1. The External Relations Director shall share updates to and gather input from the Society on motions presented at the ESSCO or the CFES council meetings in any manner necessary to best represent the Society and its interests.
 1. The External Relations Director shall be overseen by the President.
 
 ## Skule™ Patrol Directors
@@ -254,9 +256,10 @@ subtitle: The Directors, Associated Entities, and Neutral Officers Bylaw
    1. Materials Science and Engineering Discipline Club;
    1. Mechanical Discipline Club;
    1. Mineral Discipline Club;
-   1. TrackOne Club;
-   1. CALE Organizing Committee; and
-   1. OEC Organizing Committee.
+   1. TrackOne Club; and
+   1. All ESSCO and CFES conference Organizing Committees.
+1. The following Ancillary Organizations will have the Vice-President Academic as a point of contact for their activities that fall within the Society's jurisdiction:
+   1.  Galbraith Society.
 1. The following Ancillary Organizations will have the Vice-President Student Life as a point of contact for their activities that fall within the Society's jurisdiction:
    1. Engineering Athletics Association; and
    1. Skule Nite.
@@ -301,6 +304,11 @@ subtitle: The Directors, Associated Entities, and Neutral Officers Bylaw
    1. The Board of Directors of the Society;
    1. The Annual General Meeting; or
    1. A General Meeting called for such purpose
+1. By default, Neutral Officers may only provide objective, factual guidance on matters within their expertise or mandate. They may only take action in furtherance of a specific governance outcome (such as by expressing non-impartial opinions) if:
+   1. such action is a direct responsibility of the role (such as the Speaker or Chief Returning Officer ruling on an interpretation of the Bylaws, or the Ombudsperson producing an investigation report),
+   1. their expert opinion is expressly requested as part of a governance process (such as in a complaint investigation as an expert witness), or
+   1. doing so is relevant to a matter at hand in a Policy and Structures Committee meeting.
+1. Neutral Officers are charged with upholding the letter and spirit of the Bylaws, and therefore must themselves maintain a higher standard in that regard in their own conduct.
 
 ## Speaker
 1. There shall be a Speaker who shall act as Chair of the Board of Directors during all meetings of the Board.
