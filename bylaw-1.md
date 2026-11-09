@@ -1,5 +1,5 @@
 ---
-revdate: June 25, 2026
+revdate: October 18, 2026
 title: Bylaw 1
 pdf: Bylaw 1
 subtitle: The Engineering Society
@@ -126,6 +126,7 @@ subtitle: The Engineering Society
 1. Each Officer shall be a Full Time Member of the Society or a Part Time Member of the Society who is not completing a Professional Experience Year (PEY) in the September of their term of Office and thereafter during their term of Office.
 1. Each Officer shall be at least eighteen (18) years of age.
 1. Each Officer shall attend a form of or equivalent of Equity Training and Sexual Violence Prevention and Response Training, before the November month of their term, provided by the University of Toronto and their resources or from an external organization deemed reliable at a meeting of the Board of Directors.
+1. The Officers are charged with upholding the letter and spirit of the Bylaws, and therefore must themselves maintain a higher standard in that regard in their own conduct.
 
 ## President
 1. The President shall be the Chief Executive Officer of the Society.
@@ -206,7 +207,7 @@ subtitle: The Engineering Society
 
 ## General
 1. The business and affairs of the Society shall be managed by a Board of Directors.
-1. The the following office-holders, by virtue of their office in accordance with Section 23(4) of ONCA, shall be the Directors of the Board:
+1. The following office-holders, by virtue of their office in accordance with Section 23(4) of ONCA, shall be the Directors of the Board:
    1. The five (5) EngSoc Officers defined in Chapter 3;
    1. The sixteen (16) Board Representatives defined in section 4.1; and
    1. The Speaker (as defined in section 4.6), as a non-voting director.
