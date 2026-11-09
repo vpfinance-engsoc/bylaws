@@ -164,7 +164,7 @@ subtitle: Policy on Finances
 1. A conference is a gathering of people with a common interest or background about a common topic. This means:
    1. A conference must be a gathering of multiple people;
    1. Attendees to a conference must have a common interest or background;
-   1.  A conference must be on a well-defined topic.
+   1. A conference must be on a well-defined topic.
 1. Whether an event may qualify as a conference is up to the Finance Committee's discretion, guided by the above criteria.
    1. A competition generally qualifies as a conference under the above definition.
 1. An external conference is a conference whose organizing body is not a member of, or affiliated with, the Engineering Society.
@@ -195,12 +195,13 @@ The following entities may not file Club Applications on behalf of their members
    1. Its use in participating in the conference is sufficiently differentiated from any other use cases it may have.
 1. All of the following are considered eligible costs:
    1. Long-distance travel from the GTA (beyond the range of any local transit services) e.g. airplane tickets, train tickets, bus fares, and rental vehicles;
+   1. Local transit to and from the airport, if an airplane ticket has been purchased, has a clearly traceable destination and avoids excessive fees;
    1. Room and board;
    1. Conference equipment e.g. banners, electronics;
    1. Shipping of conference equipment.
 1. All of the following are not considered eligible costs:
-   1. Short-range travel within local transit services within or outside the GTA. This is because transit use cannot be traced to attendance in a conference;
-   1. Ridesharing or taxi;
+   1. Short-range travel within local transit services within or outside the GTA, with the exception of airport travel listed in the above section. This is because transit use cannot be traced to attendance in a conference;
+   1. Ridesharing or taxi, with the exception of the airport transit listed in the above section;
    1. Gasoline;
    1. Food and socials.
 1. For hobby conferences specifically, applications must satisfy one of the following conditions:
